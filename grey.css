@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+
+} 
+
+p{
+    color: antiquewhite;
+}
+.con{
+    background-color: black;
+    width: 700;
+    height: 500;
+}
+.kl{
+    font-size: 20px;
+    color: beige;
+}
+.ol{
+    display: flex;
+}
+
+.qo{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.tr{
+    width: 120px;
+    margin-top: 2rem;
+
+}
+.wer{
+    background-color: black;
+    width: 700;
+    height: 500;  
+}
+
+.hj{
+    display: flex;
+}
+.jl{
+    margin-left: 50px;    font-size: 25px;
+    color: beige;
+
+}
